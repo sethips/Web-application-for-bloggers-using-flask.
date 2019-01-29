@@ -1,0 +1,1 @@
+India beats nz 3-0.
