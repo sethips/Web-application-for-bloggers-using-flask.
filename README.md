@@ -7,3 +7,5 @@ This is a simple demonstration of a web application to post and view stuffs post
 <p>2) Run <b>virtualenv venv</b></p>
 <p>3) Run <b>pip install requirements.txt</b></p>
 <p>4) Run <b>python run.py</b</p>
+  
+  
