@@ -5,5 +5,5 @@ This is a simple demonstration of a web application to post and view stuffs post
 
 <p>1) Clone the repo and cd into it.</p>
 <p>Run <b>virtualenv venv</b></p>
-<p>Run <b><pip install requirements.txt</b></p>
+<p>Run <b>pip install requirements.txt</b></p>
 <p>Run <b>python run.py</b</p>
