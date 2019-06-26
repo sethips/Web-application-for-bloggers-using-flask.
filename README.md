@@ -3,16 +3,11 @@ Web application to post and view stuffs posted by others in real time written in
 
 ## To execute
 
-```
-virtualenv venv
-```
+Run: `virtualenv venv`
 
-```
-pip install requirements.txt
-```
+Run: `pip install requirements.txt`
 
-```
-python run.py
-```
+Run: `python run.py`
+
   
   
